@@ -5,7 +5,7 @@
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/github-community-projects/private-mirrors/badge)](https://scorecard.dev/viewer/?uri=github.com/github-community-projects/private-mirrors)
 
 <h1 align="center">
-  GitHub Private Mirrors App
+  GitHub Private Mirrors App Test
 </h1>
 
 <h4 align="center">A GitHub App that allows you to contribute upstream using private mirrors of public repositories</h4>
